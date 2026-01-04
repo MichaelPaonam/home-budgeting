@@ -1,0 +1,11 @@
+body {
+	background-color: black;
+	color: yellow;
+	font-family: monospace;
+}
+
+div {
+	margin: 0 auto;
+	width: fit-content;
+	text-align: center;
+}
