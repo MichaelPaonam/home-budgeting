@@ -9,3 +9,14 @@ div {
 	width: fit-content;
 	text-align: center;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid yellow;
+  padding: 8px;
+  text-align: left;
+}
